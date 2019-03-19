@@ -6,7 +6,7 @@ Content for Udacity's Machine Learning curriculum, which includes projects and t
 
 
 ### Price Prediction for ecommerce products  
-> **Keywords**: Deep Learning | Price Prediction | CNN | Neural Networks | Data exploration | ecommerce. *[View Report](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/projects/price-prediction-capstone/Capstone%20Report.pdf)*, *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/tree/master/projects/price-prediction-capstone)*.
+> **Keywords**: Deep Learning | Price Prediction | CNN | Neural Networks | Data exploration. *[View Report](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/projects/price-prediction-capstone/Capstone%20Report.pdf)*, *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/tree/master/projects/price-prediction-capstone)*.
 
 Using the official application of an e-commerce site, a historical sales database corresponding to a product category has been produced. By using this dataset containing all the information related to the products and their corresponding price, it is possible to train an algorithm capable of predicting the optimal competitive price for the publication of a new product. The motivation for pursuing this project is due to the fact that e-commerce companies require a holistic understanding of prices, and they must establish it intelligently as a marketing weapon.
 
