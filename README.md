@@ -42,7 +42,7 @@ Built a model to predict the value of a given house in the Boston real estate ma
 Investigated factors that affect the likelihood of charity donations being made based on real census data. Developed a naive classifier to compare testing results to. Trained and tested several supervised machine learning models on preprocessed census data to predict the likelihood of donations. Selected the best model based on accuracy, a modified F-scoring metric, and algorithm efficiency.
 
 ### Coding a Neural Network
-> **Keywords**: Neural Network, Forward Prppagation, Backpropagation, Gradient Descent, Tensorflow. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/projects/coding-a-neural-network/coding_a_neural_network.ipynb)*
+> **Keywords**: Neural Network, Forward Propagation, Backpropagation, Gradient Descent, Tensorflow. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/projects/coding-a-neural-network/coding_a_neural_network.ipynb)*
 
 Build a neural network from scratch to carry out a prediction problem on a real dataset. Building a neural network from the ground up to have a better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher level tools. The data comes from the UCI Machine Learning Database.
 
