@@ -15,6 +15,10 @@ Using the official application of an e-commerce site, a historical sales databas
 
 Classified images from the CIFAR-10 dataset. The dataset consisted of airplanes, dogs, cats, and other objects. The project involed preprocessing the images, then training a convolutional neural network on all the samples. The images needed to be normalized and the labels had to be one-hot encoded. Built convolutional, max pooling, dropout, and fully connected layers and see the neural network's predictions on the sample images.
 
+### Natural Language Processing - Word Embeddings  
+> **Keywords**: Deep Learning | Word2vec | Skip-Gram | Neural Networks | NLP. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/projects/word-embeddings/Skip-Gram_word2vec.ipynb)*.
+
+Using TensorFlow to implement the word2vec algorithm using the skip-gram architecture. By implementing this, we'll explore about embedding words for use in natural language processing. This will come in handy when dealing with things like machine translation.
 
 ### Creating Customer Segments
 > **Keywords**: Unsupervised Learning |  Clustering | PCA | Feature Transformation | Outlier Detection. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/projects/customer-segments/customer_segments.ipynb)*
