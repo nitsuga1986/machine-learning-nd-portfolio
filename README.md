@@ -30,6 +30,16 @@ Reviewed unstructured data to understand the patterns and natural categories tha
 
 Applied reinforcement learning to build a simulated vehicle navigation agent. This project involved modeling a complex control problem in terms of limited available inputs, and designing a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
 
+### Face Generator
+> **Keywords**: DCGAN | Adversial Networks | Convolutional | Deep Learning | Discount Factor. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/projects/face-generation/dlnd_face_generation.ipynb)*
+
+In this notebook,a generative adversarial network is built to generate new images of faces. This is called a Deep Convolutional GAN, or DCGAN for short. The DCGAN architecture was first explored last year and has seen impressive results in generating new images
+
+### DCGAN: Deep Convolutional Generative Adversarial Networks
+> **Keywords**: DCGAN | Adversial Networks | Convolutional | Deep Learning | Discount Factor. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/tree/master/projects/dcgan-svhn)*
+
+In this notebook, a GAN using convolutional layers in the generator and discriminator is bulilt to generate numbers. This is called a Deep Convolutional GAN, or DCGAN for short. The DCGAN architecture was first explored last year and has seen impressive results in generating new images
+
 ### Titanic Survival Exploration 
 > **Keywords**: Data science | Data exploration | NumPy | Pandas | matplotlib | scikit-learn. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/projects/titanic-survival-exploration/titanic_survival_exploration.ipynb)*
 
