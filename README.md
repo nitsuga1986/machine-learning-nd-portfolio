@@ -33,6 +33,8 @@ Classified images from the CIFAR-10 dataset. The dataset consisted of airplanes,
 
 Design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm. The algorithm used was a Deep Deterministic Policy Gradients (DDPG) as described in the Continuous control with deep reinforcement learning paper. The choice was based on the requirement to support learning in a continuous action space.
 
+![Quadcopter fly](https://raw.githubusercontent.com/nitsuga1986/machine-learning-nd-portfolio/master/reinforcement-learning/rl-quadcopter/simulation/flight_2.gif)
+
 ### Deep Q-learning - Cart Pole
 > **Keywords**: Reinforcement Learning | Q-Learning | Cart Pole | OpenAI Gym | Experience replay. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/reinforcement-learning/Q-learning-cart/Q-learning-cart.ipynb)*
 
@@ -42,6 +44,8 @@ Build a neural network that can learn to play games through reinforcement learni
 > **Keywords**: Reinforcement Learning | Q-Learning | Driving Agent | Optimal Policy | Discount Factor. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/reinforcement-learning/self-driving-car/smartcab.ipynb)*
 
 Applied reinforcement learning to build a simulated vehicle navigation agent. This project involved modeling a complex control problem in terms of limited available inputs, and designing a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
+
+![Smart Cab](https://raw.githubusercontent.com/nitsuga1986/machine-learning-nd-portfolio/master/reinforcement-learning/self-driving-car/screenshots/training_trial_1.gif)
 
 ## Supervised Learning
 
