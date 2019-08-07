@@ -45,8 +45,6 @@ Build a neural network that can learn to play games through reinforcement learni
 
 Applied reinforcement learning to build a simulated vehicle navigation agent. This project involved modeling a complex control problem in terms of limited available inputs, and designing a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
 
-![Smart Cab](https://raw.githubusercontent.com/nitsuga1986/machine-learning-nd-portfolio/master/reinforcement-learning/self-driving-car/screenshots/training_trial_1.gif)
-
 ## Supervised Learning
 
 ### Finding Donors for CharityML
