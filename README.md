@@ -84,7 +84,14 @@ Built a model to predict the value of a given house in the Boston real estate ma
 Create decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. Starting with a simple algorithm and increase its complexity until to accurately predict the outcomes for at least 80% of the passengers in the provided data.
 
 
+## Artificial Intelligence
 
+### Adversial Search  
+> **Keywords**: Deep Learning | Price Prediction | CNN | Neural Networks | Data exploration. *[View Report](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/deep-learning/ml-price-prediction/Capstone%20Report.pdf)*, *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/deep-learning/ml-price-prediction/capstone_project.ipynb)*.
+
+![Example game of isolation on a square board](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/artificial-intelligence/adversarial-search/viz.gif)
+
+Experiment with adversarial search techniques by building an agent to play knights Isolation. This version of Isolation gives each agent control over a single token that moves in L-shaped movements--like a knight in chess.
 
 --
 
