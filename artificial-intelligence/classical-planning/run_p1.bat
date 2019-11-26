@@ -1,0 +1,1 @@
+python run_search.py -p 4 -s 11 >> run_4_11_results.txt
