@@ -87,11 +87,17 @@ Create decision functions that attempt to predict survival outcomes from the 191
 ## Artificial Intelligence
 
 ### Adversial Search  
-> **Keywords**: Deep Learning | Price Prediction | CNN | Neural Networks | Data exploration. *[View Report](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/deep-learning/ml-price-prediction/Capstone%20Report.pdf)*, *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/deep-learning/ml-price-prediction/capstone_project.ipynb)*.
+> **Keywords**: Search Algorithms | MiniMax | MCTS | Alpha-Beta Pruning | Open Book. *[View Report](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/artificial-intelligence/adversarial-search/report.pdf)*, *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/artificial-intelligence/adversarial-search/my_custom_player.py)*.
 
 ![Example game of isolation on a square board](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/artificial-intelligence/adversarial-search/viz.gif)
 
-Experiment with adversarial search techniques by building an agent to play knights Isolation. This version of Isolation gives each agent control over a single token that moves in L-shaped movements--like a knight in chess.
+Experiment with adversarial search techniques by building an agent to play knights Isolation. This version of Isolation gives each agent control over a single token that moves in L-shaped movements--like a knight in chess. Agents have a fixed time limit (150 milliseconds by default) to search for the best move and respond. The search will be automatically cut off after the time limit expires, and the active agent will forfeit the game if it has not chosen a move.
+
+
+### Clasical Search  
+> **Keywords**: Symbolic Logic | Planning | Progression Search | Regression Search. *[View Report](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/artificial-intelligence/classical-planning/report.pdf)*, *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/artificial-intelligence/classical-planning/my_planning_graph.py)*.
+
+Planning is an important topic in AI because intelligent agents are expected to automatically plan their own actions in uncertain domains. This project is split between implementation and analysis. First it combines symbolic logic and classical search to implement an agent that performs progression search to solve planning problems. Then it will experiment with different search algorithms and heuristics, and use the results to answer questions about designing planning systems.
 
 --
 
