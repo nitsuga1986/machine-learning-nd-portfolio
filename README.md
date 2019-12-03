@@ -3,6 +3,13 @@
 This is a collection of fully operational machine learning projects developed as part of the Udacity's *[Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t#)*, the *[Deep Learning Nanodegree Program](https://www.udacity.com/course/deep-learning-nanodegree--nd101)* and the LinkedIn Learning *[Advance Your Skills in Deep Learning and Neural Networks](https://www.linkedin.com/learning/paths/advance-your-skills-in-deep-learning-and-neural-networks)* learning path.
 
 
+
+**Table of Contents**
+
+ - [Deep Learning](#deep-learning)
+ - [Supervised Learning](#supervised-learning)
+
+
 ## Deep Learning
 
 ### Price Prediction for ecommerce products  
