@@ -3,11 +3,31 @@
 This is a collection of fully operational machine learning projects developed as part of the Udacity's *[Machine Learning Engineer Nanodegree Program](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t#)*, the *[Deep Learning Nanodegree Program](https://www.udacity.com/course/deep-learning-nanodegree--nd101)* and the LinkedIn Learning *[Advance Your Skills in Deep Learning and Neural Networks](https://www.linkedin.com/learning/paths/advance-your-skills-in-deep-learning-and-neural-networks)* learning path.
 
 
-
 **Table of Contents**
 
  - [Deep Learning](#deep-learning)
+   - [Price Prediction for ecommerce products](#price-prediction-for-ecommerce-products)
+   - [DCGAN: Deep Convolutional Generative Adversarial Networks](#dcgan-deep-convolutional-generative-adversarial-networks)
+   - [Face Generator](#face-generator)
+   - [Image Classification](#image-classification)
+ - [Reinforcement Learning](#reinforcement-learning)
+   - [Train a Quadcopter How to Fly](#train-a-quadcopter-how-to-fly)
+   - [Deep Qlearning for Cart Pole](#deep-qlearning-for-cart-pole)
+   - [Train a Self Driving Car](#train-a-self-driving-car)
  - [Supervised Learning](#supervised-learning)
+   - [Finding Donors for CharityML](#finding-donors-for-charityml)
+ - [Unsupervised Learning](#unsupervised-learning)
+   - [Creating Customer Segments](#creating-customer-segments)
+ - [Natural Language Processing](#natural-language-processing)
+   - [Word Embeddings](#word-embeddings)
+ - [Foundations and Metrics](#foundations-and-metrics)
+   - [Coding a Neural Network](#coding-a-neural-network)
+   - [Predicting Boston Housing Prices](#predicting-boston-housing-prices)
+   - [Titanic Survival Exploration](#titanic-survival-exploration)
+ - [Artificial Intelligence](#artificial-intelligence)
+   - [Adversial Search](#adversial-search)
+   - [Clasical Search](#clasical-search)
+ 
 
 
 ## Deep Learning
@@ -17,7 +37,7 @@ This is a collection of fully operational machine learning projects developed as
 
 Using the official application of an e-commerce site, a historical sales database corresponding to a product category has been produced. By using this dataset containing all the information related to the products and their corresponding price, it is possible to train an algorithm capable of predicting the optimal competitive price for the publication of a new product. The motivation for pursuing this project is due to the fact that e-commerce companies require a holistic understanding of prices, and they must establish it intelligently as a marketing weapon.
 
-### DCGAN: Deep Convolutional Generative Adversarial Networks
+### DCGAN Deep Convolutional Generative Adversarial Networks
 > **Keywords**: DCGAN | Adversial Networks | Convolutional | Deep Learning | Discount Factor. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/deep-learning/dcgan-image-generator/DCGAN.ipynb)*
 
 In this notebook, a GAN using convolutional layers in the generator and discriminator is bulilt to generate numbers. This is called a Deep Convolutional GAN, or DCGAN for short. The DCGAN architecture was first explored last year and has seen impressive results in generating new images
@@ -42,7 +62,7 @@ Design an agent to fly a quadcopter, and then train it using a reinforcement lea
 
 ![Quadcopter fly](https://raw.githubusercontent.com/nitsuga1986/machine-learning-nd-portfolio/master/reinforcement-learning/rl-quadcopter/simulation/flight_2.gif)
 
-### Deep Q-learning - Cart Pole
+### Deep Qlearning for Cart Pole
 > **Keywords**: Reinforcement Learning | Q-Learning | Cart Pole | OpenAI Gym | Experience replay. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/reinforcement-learning/Q-learning-cart/Q-learning-cart.ipynb)*
 
 Build a neural network that can learn to play games through reinforcement learning. More specifically, we'll use QQ-learning to train an agent to play a game called Cart-Pole. In this game, a freely swinging pole is attached to a cart. The cart can move to the left and right, and the goal is to keep the pole upright as long as possible.
@@ -68,12 +88,15 @@ Investigated factors that affect the likelihood of charity donations being made 
 Reviewed unstructured data to understand the patterns and natural categories that the data fits into. Used multiple algorithms and both empirically and theoretically compared and contrasted their results. Made predictions about the natural categories of multiple types in a dataset, then checked these predictions against the result of unsupervised analysis.
 
 
-## Foundations & Metrics 
+## Natural Language Processing 
 
-### Natural Language Processing - Word Embeddings  
+### Word Embeddings  
 > **Keywords**: Deep Learning | Word2vec | Skip-Gram | Neural Networks | NLP. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/foundations-metrics/word-embeddings/Skip-Gram_word2vec.ipynb)*.
 
 Using TensorFlow to implement the word2vec algorithm using the skip-gram architecture. By implementing this, we'll explore about embedding words for use in natural language processing. This will come in handy when dealing with things like machine translation.
+
+
+## Foundations and Metrics 
 
 ### Coding a Neural Network
 > **Keywords**: Neural Network, Forward Propagation, Backpropagation, Gradient Descent, Tensorflow. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/foundations-metrics/coding-a-neural-network/coding_a_neural_network.ipynb)*
