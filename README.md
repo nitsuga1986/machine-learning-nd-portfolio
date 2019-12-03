@@ -14,13 +14,11 @@ This is a collection of fully operational machine learning projects developed as
    - [Train a Quadcopter How to Fly](#train-a-quadcopter-how-to-fly)
    - [Deep Qlearning for Cart Pole](#deep-qlearning-for-cart-pole)
    - [Train a Self Driving Car](#train-a-self-driving-car)
- - [Supervised Learning](#supervised-learning)
-   - [Finding Donors for CharityML](#finding-donors-for-charityml)
- - [Unsupervised Learning](#unsupervised-learning)
-   - [Creating Customer Segments](#creating-customer-segments)
  - [Natural Language Processing](#natural-language-processing)
    - [Word Embeddings](#word-embeddings)
  - [Foundations and Metrics](#foundations-and-metrics)
+   - [Finding Donors for CharityML](#finding-donors-for-charityml)
+   - [Creating Customer Segments](#creating-customer-segments)
    - [Coding a Neural Network](#coding-a-neural-network)
    - [Predicting Boston Housing Prices](#predicting-boston-housing-prices)
    - [Titanic Survival Exploration](#titanic-survival-exploration)
@@ -72,22 +70,6 @@ Build a neural network that can learn to play games through reinforcement learni
 
 Applied reinforcement learning to build a simulated vehicle navigation agent. This project involved modeling a complex control problem in terms of limited available inputs, and designing a scheme to automatically learn an optimal driving strategy based on rewards and penalties.
 
-## Supervised Learning
-
-### Finding Donors for CharityML
-> **Keywords**: Supervised Learning | Classifiers | Feature Importance | Random forest | KNeighbors. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/supervised-learning/finding-donors/finding_donors.ipynb)*
-
-Investigated factors that affect the likelihood of charity donations being made based on real census data. Developed a naive classifier to compare testing results to. Trained and tested several supervised machine learning models on preprocessed census data to predict the likelihood of donations. Selected the best model based on accuracy, a modified F-scoring metric, and algorithm efficiency.
-
-
-## Unsupervised Learning
-
-### Creating Customer Segments
-> **Keywords**: Unsupervised Learning |  Clustering | PCA | Feature Transformation | Outlier Detection. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/unsupervised-learning/customer-segments/customer_segments.ipynb)*
-
-Reviewed unstructured data to understand the patterns and natural categories that the data fits into. Used multiple algorithms and both empirically and theoretically compared and contrasted their results. Made predictions about the natural categories of multiple types in a dataset, then checked these predictions against the result of unsupervised analysis.
-
-
 ## Natural Language Processing 
 
 ### Word Embeddings  
@@ -97,6 +79,16 @@ Using TensorFlow to implement the word2vec algorithm using the skip-gram archite
 
 
 ## Foundations and Metrics 
+
+### Finding Donors for CharityML
+> **Keywords**: Supervised Learning | Classifiers | Feature Importance | Random forest | KNeighbors. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/supervised-learning/finding-donors/finding_donors.ipynb)*
+
+Investigated factors that affect the likelihood of charity donations being made based on real census data. Developed a naive classifier to compare testing results to. Trained and tested several supervised machine learning models on preprocessed census data to predict the likelihood of donations. Selected the best model based on accuracy, a modified F-scoring metric, and algorithm efficiency.
+
+### Creating Customer Segments
+> **Keywords**: Unsupervised Learning |  Clustering | PCA | Feature Transformation | Outlier Detection. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/unsupervised-learning/customer-segments/customer_segments.ipynb)*
+
+Reviewed unstructured data to understand the patterns and natural categories that the data fits into. Used multiple algorithms and both empirically and theoretically compared and contrasted their results. Made predictions about the natural categories of multiple types in a dataset, then checked these predictions against the result of unsupervised analysis.
 
 ### Coding a Neural Network
 > **Keywords**: Neural Network, Forward Propagation, Backpropagation, Gradient Descent, Tensorflow. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/foundations-metrics/coding-a-neural-network/coding_a_neural_network.ipynb)*
