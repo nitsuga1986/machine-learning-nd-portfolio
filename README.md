@@ -6,25 +6,25 @@ This is a collection of fully operational machine learning projects developed as
 **Table of Contents**
 
  - [Deep Learning](#deep-learning)
-   - [Price Prediction for ecommerce products](#price-prediction-for-ecommerce-products)
-   - [DCGAN: Deep Convolutional Generative Adversarial Networks](#dcgan-deep-convolutional-generative-adversarial-networks)
-   - [Face Generator](#face-generator)
-   - [Image Classification](#image-classification)
+   - *[Price Prediction for ecommerce products](#price-prediction-for-ecommerce-products)*
+   - *[DCGAN: Deep Convolutional Generative Adversarial Networks](#dcgan-deep-convolutional-generative-adversarial-networks)*
+   - *[Face Generator](#face-generator)*
+   - *[Image Classification](#image-classification)*
  - [Reinforcement Learning](#reinforcement-learning)
-   - [Train a Quadcopter How to Fly](#train-a-quadcopter-how-to-fly)
-   - [Deep Qlearning for Cart Pole](#deep-qlearning-for-cart-pole)
-   - [Train a Self Driving Car](#train-a-self-driving-car)
+   - *[Train a Quadcopter How to Fly](#train-a-quadcopter-how-to-fly)*
+   - *[Deep Qlearning for Cart Pole](#deep-qlearning-for-cart-pole)*
+   - *[Train a Self Driving Car](#train-a-self-driving-car)*
  - [Natural Language Processing](#natural-language-processing)
-   - [Word Embeddings](#word-embeddings)
+   - *[Word Embeddings](#word-embeddings)*
  - [Foundations and Metrics](#foundations-and-metrics)
-   - [Finding Donors for CharityML](#finding-donors-for-charityml)
-   - [Creating Customer Segments](#creating-customer-segments)
-   - [Coding a Neural Network](#coding-a-neural-network)
-   - [Predicting Boston Housing Prices](#predicting-boston-housing-prices)
-   - [Titanic Survival Exploration](#titanic-survival-exploration)
+   - *[Finding Donors for CharityML](#finding-donors-for-charityml)*
+   - *[Creating Customer Segments](#creating-customer-segments)*
+   - *[Coding a Neural Network](#coding-a-neural-network)*
+   - *[Predicting Boston Housing Prices](#predicting-boston-housing-prices)*
+   - *[Titanic Survival Exploration](#titanic-survival-exploration)*
  - [Artificial Intelligence](#artificial-intelligence)
-   - [Adversial Search](#adversial-search)
-   - [Clasical Search](#clasical-search)
+   - *[Adversial Search](#adversial-search)*
+   - *[Clasical Search](#clasical-search)*
  
 
 
