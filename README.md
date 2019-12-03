@@ -15,6 +15,7 @@ This is a collection of fully operational machine learning projects developed as
    - *[Deep Qlearning for Cart Pole](#deep-qlearning-for-cart-pole)*
    - *[Train a Self Driving Car](#train-a-self-driving-car)*
  - [Natural Language Processing](#natural-language-processing)
+   - *[Topic Modeling](#topic-modeling)*
    - *[Word Embeddings](#word-embeddings)*
  - [Foundations and Metrics](#foundations-and-metrics)
    - *[Finding Donors for CharityML](#finding-donors-for-charityml)*
