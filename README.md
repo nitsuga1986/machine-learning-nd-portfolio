@@ -72,21 +72,25 @@ Applied reinforcement learning to build a simulated vehicle navigation agent. Th
 
 ## Natural Language Processing 
 
+### Topic Modeling  
+> **Keywords**: Latent Dirichlet Allocation | LDA | TF-IDF | Bag of Words | NLP. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/natural-language-processing/topic-modeling/Latent_dirichlet_allocation.ipynb)*.
+
+Latent Dirichlet Allocation  is used to classify text in a document to a particular topic. It builds a topic per document model and words per topic model, modeled as Dirichlet distributions. I'll be following [this article](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) by David Blei, Andrew Ng, and Michael Jordan.
+
 ### Word Embeddings  
-> **Keywords**: Deep Learning | Word2vec | Skip-Gram | Neural Networks | NLP. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/foundations-metrics/word-embeddings/Skip-Gram_word2vec.ipynb)*.
+> **Keywords**: Deep Learning | Word2vec | Skip-Gram | Neural Networks | NLP. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/natural-language-processing/word-embeddings/Skip-Gram_word2vec.ipynb)*.
 
 Using TensorFlow to implement the word2vec algorithm using the skip-gram architecture. By implementing this, we'll explore about embedding words for use in natural language processing. This will come in handy when dealing with things like machine translation.
-
 
 ## Foundations and Metrics 
 
 ### Finding Donors for CharityML
-> **Keywords**: Supervised Learning | Classifiers | Feature Importance | Random forest | KNeighbors. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/supervised-learning/finding-donors/finding_donors.ipynb)*
+> **Keywords**: Supervised Learning | Classifiers | Feature Importance | Random forest | KNeighbors. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/foundations-metrics/finding-donors/finding_donors.ipynb)*
 
 Investigated factors that affect the likelihood of charity donations being made based on real census data. Developed a naive classifier to compare testing results to. Trained and tested several supervised machine learning models on preprocessed census data to predict the likelihood of donations. Selected the best model based on accuracy, a modified F-scoring metric, and algorithm efficiency.
 
 ### Creating Customer Segments
-> **Keywords**: Unsupervised Learning |  Clustering | PCA | Feature Transformation | Outlier Detection. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/unsupervised-learning/customer-segments/customer_segments.ipynb)*
+> **Keywords**: Unsupervised Learning |  Clustering | PCA | Feature Transformation | Outlier Detection. *[View Source](https://github.com/nitsuga1986/machine-learning-nd-portfolio/blob/master/foundations-metrics/customer-segments/customer_segments.ipynb)*
 
 Reviewed unstructured data to understand the patterns and natural categories that the data fits into. Used multiple algorithms and both empirically and theoretically compared and contrasted their results. Made predictions about the natural categories of multiple types in a dataset, then checked these predictions against the result of unsupervised analysis.
 
